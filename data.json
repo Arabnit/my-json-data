@@ -1,1 +1,17 @@
+{
+  "project_name": "My Custom Data API",
+  "version": "1.0",
+  "recipes": [
+    {
+      "id": 1,
+      "name_ar": "وصفة الدجاج بالليمون",
+      "ingredients": ["دجاج", "ليمون", "توابل"]
+    },
+    {
+      "id": 2,
+      "name_ar": "وصفة الأرز بالخضار",
+      "ingredients": ["أرز", "خضار مشكلة", "زيت زيتون"]
+    }
+  ]
+}
 
