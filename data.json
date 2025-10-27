@@ -1,17 +1,52 @@
-{
-  "project_name": "My Custom Data API",
-  "version": "1.0",
-  "recipes": [
-    {
-      "id": 1,
-      "name_ar": "وصفة الدجاج بالليمون",
-      "ingredients": ["دجاج", "ليمون", "توابل"]
-    },
-    {
-      "id": 2,
-      "name_ar": "وصفة الأرز بالخضار",
-      "ingredients": ["أرز", "خضار مشكلة", "زيت زيتون"]
-    }
-  ]
-}
-
+[
+  {
+    "id": 330,
+    "cid": 26,
+    "category_name": "Ayam (New)",
+    "judul": "Opor Ayam Khas Ramadhan",
+    "image": "",
+    "deskripsi": "Opor Ayam Khas Ramadhan dengan kuah santan gurih dan aroma rempah yang kaya.",
+    "bahan": "700 gr daging ayam kampung, cuci نظف، قطع إلى 8 أجزاء\n- 700 ml santan من ½ جوز الهند\n- 2 sdm minyak للقلي\n\nBumbu halus :\n- 4 bh cabai merah\n- 2 siung bawang putih\n- 1 cm jahe\n- 4 bh bawang nerah\n- 2 cm kunyit\n- 1 cm lengkuas muda\n- 1 sdm garam\n- 2 bh asam kandis\n",
+    "langkah": "1. Rebus ayam حتى يصبح طرياً.\n\n2. Haluskan bawang putih, kemiri, kunyit, mrica, jahe, kencur dan ketumbar.\n\n3. Panaskan minyak di wajan, tumis bumbu halus dengan serai, lengkuas, daun jeruk, dan saun salam حتى يذبل ويصبح عطرًا.\n\n4. Masukkan rebusan ayam beserta sebagian air perebusnya. Masukkan santan, aduk perlahan jangan sampai santان pecah. Masak حتى يمتص التوابل ويقلل المرق.\n\n5. Pindahkan ke panci saji, dan taburi bawang merah goreng.\n\n6. Opor ayam siap disajikan."
+  },
+  {
+    "id": 331,
+    "cid": 26,
+    "category_name": "Ayam (New)",
+    "judul": "Ayam Kalio",
+    "image": "",
+    "deskripsi": "Ayam Kalio olahan ayam lezat yang mudah dibuat di rumah.",
+    "bahan": "1 ekor ayam kampung, نظف, قطع إلى 8 أجزاء\n- 500 ml santan\n- 3 sdm minyak goreng, للقلي\n- 1 batang serai, memarkan\n- 3 cm lengkuas, memarkan\n- 2 lembar daun jeruk\n- 2 lembar daun salam\n ",
+    "langkah": "1. Haluskan : cabai merah, bawang putih, jahe, bawang merah, kunyit, lengkuas, garam dan asam kandis.\n\n2. Tumis semua bumbu yang dihaluskan bersama asam kandis حتى يصبح عطرًا. Masukkan ayam, aduk حتى يتغير اللون.\n\n3. Tuang santan, masak sambil diaduk حتى ينضج و يمتص التوابل. Angkat.\n\n4. Hidangkan dengan taburan bawang goreng."
+  },
+  {
+    "id": 332,
+    "cid": 26,
+    "category_name": "Ayam (New)",
+    "judul": "Ayam Kungpau / Kungpau Chicken",
+    "image": "",
+    "deskripsi": "Ayam Kungpau / Kungpau Chicken olahan ayam lezat yang mudah dibuat di rumah.",
+    "bahan": "500 gr fillet dada ayam, قطع مكعبات\n- 1 bh jeruk nipis, peras airnya\n- 1 sdm kecap asin\n- ½ sdt merica bubuk\n- 1 sdm arak masak / ang ciu\n- 1 sdm minyak wijen\n- 3 siung bawang putih, cacah halus\n- 5 bh cabai merah kering\n- 1 bh paprika\n- kacang mede أو kacang tanah, sangrai\n\nBahan Saus :\n- 1 sdm saus tiram\n- 1 sdm arak masak / ang ciu\n- 1 sdm minyak wijen\n- 1 sdt cuka\n- 1 sdt madu\n- 1 sdt gula\n- ½ sdt bubuk cabai\n- 200 ml air\n- 1 sdm tepung maizena larutkan dengan 1 sdm air",
+    "langkah": "1. Rendam ayam dalam campuran air jeruk nipis, kecap asin, merica bubuk, arak masak, dan minyak wijen. Aduk sampai tercampur rata و masukkan dalam lemari es لمدة 30 دقيقة حتى يمتص التوابل.\n\n2. Iris cabai merah kering dan paprika.\n\n3. Panaskan sedikit minyak dan masak ayam sebentar حتى يتغير اللون وينضج تقريباً 80%. Angkat و sisihkan.\n\n4. Panaskan sedikit minyak, tumis bawang putih hingga harum. Masukkan irisan cabai merah kering dan paprika.\n\n5. Tambahkan saus tirام, arak masak, minyak wijen, cuka, madو, gula, bubuk cabai, و air, aduk rata ثم masukkan larutan tepung maizena. Masak sebentar حتى يغلي.\n\n6. Masukkan ayam dan kacang ke dalam saus lalu aduk حتى يتجانس. Masak حتى يصبح الصوص سميكاً. Angkat و sajikan"
+  },
+  {
+    "id": 333,
+    "cid": 26,
+    "category_name": "Ayam (New)",
+    "judul": "Nugget Ayam",
+    "image": "",
+    "deskripsi": "Nugget Ayam olahan ayam lezat yang mudah dibuat di rumah.",
+    "bahan": "400 gr daging ayam cincang\n- 200 gr tepung roti\n- 75 gr keju parmesan\n- 1 sdt garam\n- 150 gr terigu serbaguna\n- 3 butir telur, kocك lepas\n- Minyak secukupnya untuk menggoreng",
+    "langkah": "1. Campur daging ayam cincang, keju parmesan, garam, dan tepung terigu حتى يتجانس.\n\n2. Bentuk adonan menjadi مختلف bentuk sesuai الرغبة, kukus selama 10 دقيقة.\n\n3. Balurkan nugget kukus ke dalam telur kocok, tiriskan, dan gulingkan di atas tepung roti.\n\n4. Goreng حتى يصبح أصفراً ذهبياً. Kemudian hidangkan."
+  },
+  {
+    "id": 334,
+    "cid": 26,
+    "category_name": "Ayam (New)",
+    "judul": "Ayam Cabai Hijau",
+    "image": "",
+    "deskripsi": "Ayam Cabai Hijau olahan ayam lezat yang mudah dibuat di rumah.",
+    "bahan": "1 ekor ayam broiler, نظف, قطع إلى 8 أجزاء\n- 1 sdm air jeruk nipis\n- 2 sdt garam\n- 3 sdm minyak goreng للقلي\n- 2 lembar daun jeruk\n- 1 buah serai, memarkan pangkalnya\n\nBumbu Halus :\n- 8 butir bawang merah\n- 5 siung bawang putih\n- 10 buah cabai hijau besar\n- 5 buah cabai rawit hijau\n- 3 cm jahe\n- 2 cm kunyit\n- 3 butir kemiri\n- 1 sdt garam\n- 1 sdt gula pasir\n\n",
+    "langkah": "1. Lumuri potongan ayam dengan air jeruk nipis dan garam. Sisihkan, ثم biarkan لمدة 15 دقيقة.\n\n2. Goreng ayam dalam زيت كثير حتى يصبح أصفر بني فاتح.\n\n3. Tumis seluruh bumbu halus hingga harum dan matang, masukkan daun jeruk dan serai. Kemudian masukkan ayam goreng. Aduk حتى يتجانس توابل cabai hijau.\n\n4. Sajikan دافئاً."
+  }
+]
